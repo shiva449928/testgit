@@ -1,0 +1,18 @@
+git branch name
+git status
+	*master
+	name
+git switch master
+git switch name
+create a file in file expoler
+git switch master //you can see changes in file expoler
+git switch name // you can also see changes in file expoler
+git switch name
+git add .
+git commit -m "you can theory/name/anything "
+git push origin name  //you can push into webgit
+git merge name //it will mergename into master
+git switch master 
+git push origin master //it will push file into webgit
+git branch -D name //it will delete name branch in file expoler
+git push origin --delete name //it will delete file webgit
